@@ -1,7 +1,7 @@
 latihan 8
 * sub latihan 8
--view1
+-view2
 latihan 9
 sub latihan 9
 latihn 10
-latihan 11
+latihan 17
