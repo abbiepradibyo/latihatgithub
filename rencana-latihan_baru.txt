@@ -1,5 +1,6 @@
 latihan 8
 * sub latihan 8
+-view1
 latihan 9
 sub latihan 9
 latihn 10
